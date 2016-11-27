@@ -9,3 +9,5 @@ C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Pr
 C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\obj\Debug\Archivator(STP_Project).exe
 C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\obj\Debug\Archivator(STP_Project).pdb
 C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\obj\Debug\Archivator_STP_Project_.Archivator.resources
+C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\bin\Debug\SevenZip.SDK.dll
+C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\bin\Debug\SevenZip.SDK.xml
