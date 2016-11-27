@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Archivator_STP_Project_.Options
 {
-    class Window
+    public class Window
     {
+        
     }
 }

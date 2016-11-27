@@ -68,6 +68,9 @@
     <Compile Include="Item\FileItem.cs" />
     <Compile Include="Item\Folder.cs" />
     <Compile Include="Item\Item.cs" />
+    <Compile Include="Options\FLanguage\English.cs" />
+    <Compile Include="Options\FLanguage\Russian.cs" />
+    <Compile Include="Options\FLanguage\Ukraine.cs" />
     <Compile Include="Options\Language.cs" />
     <Compile Include="Options\Window.cs" />
     <Compile Include="Program.cs" />

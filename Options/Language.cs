@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace Archivator_STP_Project_.Options
 {
-    class Language
+    abstract  class Language
     {
+        public string language;
+        public Language(string lang)
+        {
+            this.language = lang;
+        }
+        public abstract void ChangeLanguage();
     }
 }
