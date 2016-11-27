@@ -1,0 +1,11 @@
+C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\bin\Debug\Archivator(STP_Project).exe.config
+C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\bin\Debug\Archivator(STP_Project).exe
+C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\bin\Debug\Archivator(STP_Project).pdb
+C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\bin\Debug\Ionic.Zip.dll
+C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\obj\Debug\Archivator(STP_Project).csprojResolveAssemblyReference.cache
+C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\obj\Debug\Archivator_STP_Project_.Properties.Resources.resources
+C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\obj\Debug\Archivator(STP_Project).csproj.GenerateResource.Cache
+C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\obj\Debug\Archivator(STP_Project).exe
+C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\obj\Debug\Archivator(STP_Project).pdb
+C:\Users\Sergiy\Documents\Visual Studio 2015\Projects\CppStudy\Archivator(STP_Project)\Archivator(STP_Project)\obj\Debug\Archivator_STP_Project_.Archivator.resources
