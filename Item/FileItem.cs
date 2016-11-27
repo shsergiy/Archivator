@@ -1,24 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 using System.Windows.Forms;
 namespace Archivator_STP_Project_.Item
 {
-    class Folder : Item
+    class FileItem : Item
     {
         public override void CreateItem(string path)
         {
-          try
+            try
             {
-                if (Directory.Exists(path))
+                if (File.Exists(path))
                 {
-                    throw new Exception("That path exists already");
+                    throw new Exception("File with this name exist");
                 }
-                DirectoryInfo Info = Directory.CreateDirectory(path);
-                MessageBox.Show("Directory on this path " + path + " successfully created");
+                File.Create(path);
             }
             catch(Exception ex) { MessageBox.Show(Convert.ToString(ex)); }
         }
@@ -27,13 +26,13 @@ namespace Archivator_STP_Project_.Item
         {
             try
             {
-                if (Directory.Exists(path))
+                if (File.Exists(path))
                 {
-                    Directory.Delete(path);
+                    File.Delete(path);
                 }
                 else
                 {
-                    throw new Exception("That path is not exists");
+                    throw new Exception("File with this name is not exist");
                 }
             }
             catch (Exception ex) { MessageBox.Show(Convert.ToString(ex)); }

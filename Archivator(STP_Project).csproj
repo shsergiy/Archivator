@@ -65,7 +65,7 @@
       <DependentUpon>Archivator.cs</DependentUpon>
     </Compile>
     <Compile Include="Archivation\IComand.cs" />
-    <Compile Include="Item\File.cs" />
+    <Compile Include="Item\FileItem.cs" />
     <Compile Include="Item\Folder.cs" />
     <Compile Include="Item\Item.cs" />
     <Compile Include="Program.cs" />
