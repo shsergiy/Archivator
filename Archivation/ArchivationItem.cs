@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Archivator_STP_Project_.Archivation
 {//call all functional from IComand 
-    class ArchivationItem
+    public class ArchivationItem
     {
         public ArchivationItem(IComand comand)
         {
@@ -24,6 +24,19 @@ namespace Archivator_STP_Project_.Archivation
                     Comand.ArchivateFile(list);
                 }
         }
-        
+        public void Dearchivate(string path)
+        {
+            Comand.Dearchivate(path);
+        }
+        public void CheckSum(string path)
+        {
+            Comand.CheckSum(path);
+        }
+        public void Check(string path)
+        {
+            Comand.TestProblems(path);
+        }
+            
+            
     }
 }
