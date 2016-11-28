@@ -6,17 +6,17 @@ using System.Threading.Tasks;
 
 namespace Archivator_STP_Project_.Options.Decor
 {
-    class Font : WindowHandler
+    class Sizes : WindowHandler
     {
         //todo
-        public void AutoFont() { }
+        public void AutoSize() { }
         public override void Handler(Window window)
         {
-            if (window.FontSettings == true)
+            if (window.SizesSettings == true)
             {
-                AutoFont();
-                if (Secsesor != null)
-                    Secsesor.Handler(window);
+                AutoSize();
+                if(Secsesor!=null)
+                   Secsesor.Handler(window);
             }
             else if (Secsesor != null)
             {
